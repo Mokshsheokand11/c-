@@ -1,0 +1,16 @@
+// hello world code
+ #include<iostream> 
+ using namespace std;
+ int main() {
+  int a = 1234;
+  cout << a << endl;
+  char b = 'm';
+  cout << b << endl;
+  bool bl = true;
+  cout << bl << endl;
+  float f = 1.23;
+  cout << f << endl;
+  int size = sizeof(a);
+  cout << "size of a is : " << size << endl;
+cout<< "myfile" << endl;
+ }
